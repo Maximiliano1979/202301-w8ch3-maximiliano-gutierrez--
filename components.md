@@ -9,6 +9,7 @@
 
 -products:
 -name
+-image
 -price
 -category
 -isAvailable
